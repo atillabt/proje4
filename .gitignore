@@ -109,6 +109,7 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
+rapor.excel
 
 # Windows shortcuts
 *.lnk
